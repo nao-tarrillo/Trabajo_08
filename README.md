@@ -1,2 +1,5 @@
-# Trabajo_08
-trabajo 08/ Mendoza- Tarrillo
+Trabajo nº 8
+programacion 1B
+integrantes
+Mendoza Juan
+Tarrillo Naomi
